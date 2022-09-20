@@ -1,0 +1,19 @@
+[{
+  "id": "1",
+  "account": "admin",
+  "password": "123456",
+  "hash": "$2a$10$tymcg2IYttnv/X47vRT8wu4g9sXzG1TmFDR0aldZOTnAhSCYevX62",
+  "salt": "10"
+}, {
+  "id": "2",
+  "account": "root",
+  "password": "root",
+  "hash": "$2a$10$tymcg2IYttnv/X47vRT8wu0Z8tqC1MSeSw3IR8ZJXrZi8JXI0gJHe",
+  "salt": "10"
+}, {
+  "id": "3",
+  "account": "test",
+  "password": "test-123@hdu",
+  "hash": "$2a$10$tymcg2IYttnv/X47vRT8wuGrYSjBP3smaSbxRDj3VmwthgIcaHRri",
+  "salt": "10"
+}]
